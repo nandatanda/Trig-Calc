@@ -1,3 +1,4 @@
 ﻿  solo_trig.cpp
+c:\users\aelay\documents\cs projects\solo_trig\solo_trig\solo_trig.cpp(11): warning C4101: 'calc_sin1': unreferenced local variable
   solo_trig.vcxproj -> C:\Users\aelay\Documents\CS Projects\solo_trig\Debug\solo_trig.exe
   solo_trig.vcxproj -> C:\Users\aelay\Documents\CS Projects\solo_trig\Debug\solo_trig.pdb (Partial PDB)
