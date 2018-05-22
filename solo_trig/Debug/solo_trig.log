@@ -1,7 +1,7 @@
 ﻿  solo_trig.cpp
-c:\users\armand\documents\github repo\solo_trig\solo_trig\solo_trig.cpp(14): warning C4101: 'seconds': unreferenced local variable
-c:\users\armand\documents\github repo\solo_trig\solo_trig\solo_trig.cpp(14): warning C4101: 'minutes': unreferenced local variable
-c:\users\armand\documents\github repo\solo_trig\solo_trig\solo_trig.cpp(14): warning C4101: 'fullDegrees': unreferenced local variable
-c:\users\armand\documents\github repo\solo_trig\solo_trig\solo_trig.cpp(14): warning C4101: 'radianMeasure': unreferenced local variable
-  solo_trig.vcxproj -> C:\Users\Armand\Documents\Github Repo\solo_trig\Debug\solo_trig.exe
-  solo_trig.vcxproj -> C:\Users\Armand\Documents\Github Repo\solo_trig\Debug\solo_trig.pdb (Partial PDB)
+c:\users\armand\documents\github repo\solo_trig\solo_trig\solo_trig\solo_trig.cpp(14): warning C4101: 'seconds': unreferenced local variable
+c:\users\armand\documents\github repo\solo_trig\solo_trig\solo_trig\solo_trig.cpp(14): warning C4101: 'minutes': unreferenced local variable
+c:\users\armand\documents\github repo\solo_trig\solo_trig\solo_trig\solo_trig.cpp(14): warning C4101: 'fullDegrees': unreferenced local variable
+  LINK : C:\Users\Armand\Documents\Github Repo\solo_trig\solo_trig\Debug\solo_trig.exe not found or not built by the last incremental link; performing full link
+  solo_trig.vcxproj -> C:\Users\Armand\Documents\Github Repo\solo_trig\solo_trig\Debug\solo_trig.exe
+  solo_trig.vcxproj -> C:\Users\Armand\Documents\Github Repo\solo_trig\solo_trig\Debug\solo_trig.pdb (Partial PDB)
